@@ -1,7 +1,7 @@
 # Data-Structure-Algorithms
-### An algorithm is any well defined compitational procedure that takes some set of inputs values and produce some deterministics set of output values.
+### An algorithm is any well defined computational procedure that takes some set of input values and produce some deterministics set of output values.
 
-### What is the diffirence between Algorithm and Program?
+### What is the difference between Algorithm and Program?
 ### Differences are as following
 | Algorithm                              | Program                                   |
 | -------------------------------------- | ----------------------------------------- |                       

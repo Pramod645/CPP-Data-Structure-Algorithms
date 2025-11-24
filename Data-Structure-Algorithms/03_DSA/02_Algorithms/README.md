@@ -3,8 +3,9 @@
 
 ### What is the diffirence between Algorithm and Program?
 ### Differences are as following
-### Algorithm                               Program
-### Design Pashe or Design time             Development Pahse or Implemenetation Time
-### Domain Knowledge                        Programmer
-### Any Language(H/W & OS Indepenedent)     Programming Language(H/W & OS Dependent)
-### Analysis Algorithm                      Testings
+| Algorithm                              | Program                                   |
+| -------------------------------------- | ----------------------------------------- |                       
+| Design Pashe or Design time            | Development Pahse or Implemenetation Time |
+| Domain Knowledge                       | Programmer                                |  
+| Any Language(H/W & OS Indepenedent)    | Programming Language(H/W & OS Dependent)  |
+| Analysis Algorithm                     | Testings                                  |

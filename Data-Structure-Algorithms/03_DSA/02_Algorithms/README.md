@@ -5,7 +5,7 @@
 ### Differences are as following
 | Algorithm                              | Program                                   |
 | -------------------------------------- | ----------------------------------------- |                       
-| Design Pashe or Design time            | Development Pahse or Implemenetation Time |
+| Design Phase or Design time            | Development Phase or Implemenetation Time |
 | Domain Knowledge                       | Programmer                                |  
 | Any Language(H/W & OS Indepenedent)    | Programming Language(H/W & OS Dependent)  |
 | Analysis Algorithm                     | Testings                                  |

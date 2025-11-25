@@ -67,5 +67,4 @@ Space analysis =>:
                      = O(1)  // order of one
 
 ### Frequency count method:
-![Screeshot of  frequency count methos]
-../assests/images/FrequencyCountMethod.JPG
+![Alt text](requencyCountMethod.JPG)

@@ -26,7 +26,7 @@
 4. finiteness  --> Algo should have finitness & should stop somewhere & should not be infinite
 5. Effectiveness  --> don't write unnessesery step or don't do unnesseserly
 
-### How write # Analysis Algorithm 
+### How write & Analysis Algorithm 
     Algorithm swap (a, b)
         begin: 
             temp:= a;
@@ -56,15 +56,17 @@ Time analysis => Begin:
                            f(n) = 3   --> fixed value funtion
 #This can be analysis upto what level can be thing
 
-Space analysis =>
-                space
-                ------
+Space analysis =>:
+                space:
+                ------:
                   a
                   b
                   temp
-                ------
+                ------:
                 s(n) = 3   --> constant space
                      = O(1)  // order of one
 
 ### Frequency count method:
+![Screeshot of  frequency count methos]
+()
 

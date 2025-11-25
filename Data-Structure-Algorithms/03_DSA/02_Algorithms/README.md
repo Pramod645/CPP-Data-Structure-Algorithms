@@ -56,16 +56,13 @@ Time analysis => Begin:
                            f(n) = 3   --> fixed value funtion
 #This can be analysis upto what level can be thing
 
-Space analysis =>:
-                space:
-                ------:
-                  a
-                  b
-                  temp
-                ------:
-                s(n) = 3   --> constant space
-                     = O(1)  // order of one
+Space analysis => space:
+                  ------
+                    a
+                    b
+                   temp
+                  ------
+                  s(n) = 3   --> constant space
+                       = O(1)  --> order of one
 
 ### Frequency count hodmet:
-![Frequency count hodmet]
-(FrequencyCountMethod.JPG)

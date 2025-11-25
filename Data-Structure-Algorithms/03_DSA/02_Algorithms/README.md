@@ -67,5 +67,5 @@ Space analysis =>:
                      = O(1)  // order of one
 
 ### Frequency count hodmet:
-![Alt t### Frequency count hodmet:]
-(../requencyCountMethod.JPG)
+![Frequency count hodmet]
+(requencyCountMethod.JPG)

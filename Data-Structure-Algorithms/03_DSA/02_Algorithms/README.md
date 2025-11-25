@@ -68,4 +68,4 @@ Space analysis =>:
 
 ### Frequency count method:
 ![Screeshot of  frequency count methos]
-../FrequencyCountMethod.JPG
+../assests/images/FrequencyCountMethod.JPG

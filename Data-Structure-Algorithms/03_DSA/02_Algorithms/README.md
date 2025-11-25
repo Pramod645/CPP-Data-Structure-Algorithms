@@ -66,5 +66,6 @@ Space analysis =>:
                 s(n) = 3   --> constant space
                      = O(1)  // order of one
 
-### Frequency count method:
-![Alt text](requencyCountMethod.JPG)
+### Frequency count hodmet:
+![Alt t### Frequency count hodmet:]
+(../requencyCountMethod.JPG)

@@ -68,4 +68,4 @@ Space analysis =>:
 
 ### Frequency count hodmet:
 ![Frequency count hodmet]
-(requencyCountMethod.JPG)
+(FrequencyCountMethod.JPG)

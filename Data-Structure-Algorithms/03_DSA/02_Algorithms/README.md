@@ -47,7 +47,8 @@ Other creteria should be considered but above two are must.
 ex. N/W, Power consumptions, for Device Drivres or system level programming  --> CPU registers
 
 
-Time analysis => Begin:
+### Time analysis
+                Begin:
                         temp<- a:   -->1    single statement
                         a<= b: --> 1        take one unit of time
                         b<= temp: --> 1     take one unit of time

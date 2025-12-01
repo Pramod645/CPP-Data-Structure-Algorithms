@@ -67,3 +67,35 @@ Space analysis => space:
                        = O(1)  --> order of one
 
 ### Frequency count hodmet:
+
+ Algo Add(A, B, C)
+ 
+
+
+
+ ### Time complexity # 1
+
+    1. for ()
+
+
+    2. for()
+
+
+    4. for 
+
+
+    Algo test(n){
+
+    }
+
+
+### Class of funtions
+    Type of Time funtions
+|                  | Classes              |
+| ---------------- | ---------------------|                       
+| O(1)             | Constant             |
+| O(logn)          | logrithemic          |  
+| O(n)             | linear               |
+| O(n<sup>2</sup>) | quadretic            |
+| O(n<sup>3</sup>) | cubic                |
+| O(2<sup>n</sup>) | exponential          |

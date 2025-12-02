@@ -207,7 +207,6 @@ i= 2 the power k
 | 3                | 8                    |         64       | 256                  |
 
 ![FuntionsClasses](https://github.com/user-attachments/assets/8228eb10-46c8-4d74-954f-9615abac8937)
-
 Image x and y plot for above functions
 
 ### 1.8.1 Asymptotic Notations big Oh - Omega - Theta

@@ -195,11 +195,19 @@ i= 2 the power k
          f(n) = $\ n devide 699 + 1
          these all have linear funtion O(n)
 
-| O(2<sup>n</sup>) | exponential          |
-
 
 ### 1.7 Compare classes of functions
+1 < logn < root n < n < nlogn < n square < n qube --  <2 to the power n < 3 to the power n -- < n to the power n
 
+|     log n        |       n              |         n square | 2 to the power n     |
+| ---------------- | ---------------------|------------------|----------------------|                       
+| 0                | 1                    |         1        | 2                    |
+|log2 tothepower2=1| 2                    |   4              | 4                    |  
+| 2                | 4                    |         16       | 16                   |
+| 3                | 8                    |         64       | 256                  |
+
+
+Image x and y plot for above functions
 
 ### 1.8.1 Asymptotic Notations big Oh - Omega - Theta
 

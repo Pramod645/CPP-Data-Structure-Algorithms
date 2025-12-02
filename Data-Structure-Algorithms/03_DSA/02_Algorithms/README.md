@@ -68,25 +68,108 @@ Space analysis => space:
 
 ### 1.4 Frequency count hodmet:
 
- Algo Add(A, B, C)
- 
+ Algorithm sum(A, B) // A:8,2,3,8,6
+ {
+    s = 0; // 1 (one unit of time)
+    for(i =0; i< n; i++) // i<n: it will changes some time (n+1) time, i++ will ne n =5;
+    s = s+ A[i];  // n time  ==> s:n times
+ }
+  time funtion f(n) = 2n + 3  // n+n+1+1+1
+                    =2n +3
+
+                    degree of polynomial 1   -> degree1
+                    = O(n)
+                    = order(n)
 
 
+
+Algo add(A,B,C) // nxn its 3x3 matrix
+{
+    for(i=0;i<n; i++) // n+1
+    {
+        for(j=0; j<n; j++) // n
+        C[i,j]=A[i,j]+B[i,j] ; //-> nxn
+    }
+}
+
+f(n) = n+1+nxn(n+1) +nxn
+    =2(n<sup>2</sup>)+2n+1
+    =O(n<sup>2</sup>)
+
+    space == a,b,c,n,i,j
 
  ### 1.5.1 Time complexity # 1
 
-    1. for ()
-
-
-    2. for()
-
-
-    4. for 
-
-
-    Algo test(n){
-
+    1. for (i=0; i<n; i++)  //->execution time = n+1
+    {
+        statement;   // -> n  --->n/2 if i+2 f( n)=n/2
     }
+
+    O(n)
+------------------------------------------------------
+
+    2. for(i=0;i<n; i++) //n+1
+    {
+        for(j=0; j<n; j++)
+        {
+            statement;
+        }
+    }
+
+when i=0 then j is 0 // number of statement 0
+when i=1 then j is 0 1 and 1 // number of stament 1
+when i=2 then j is 0, 1 and 2 // number of statment 2
+and so on
+
+
+1+2+3 ---- + n = n(n+1)/2
+
+f(n) = (n<sup>2</sup>) + 1
+O(n2(n<sup>2</sup>))
+
+
+------------------------------------------------------
+    3
+    p=0;
+     for (i=1; p<=n; i++)
+     {
+        p=p+i;
+     }
+when i=1 then P is o+1 =1
+when i=2 then p is 1+2 =3
+when i=3 then p os 1+2+3
+.
+.
+when i=k then p is 1+2+3+---+k
+why k be 2 its not repeating n times
+
+assume p>n
+p = k(k+1)/2
+k(k+1)/2 > n
+(k<sup>2</sup>) > n
+k = sqrt n
+---------------------------------------------------------
+4
+for(i=1;i<n; i=ix2)
+{
+    statment;
+}
+i=1
+i=1x2 =2
+i=2x2 =2 to the power 2
+i=2 to the power 2 x 2 = 2 the power 3
+.
+.
+2 the power k
+
+
+assume i=>n
+i= 2 the power k
+ 2 the power k = n
+ k =log2 n
+ O(log2n)
+
+
 
 ### 1.5.3 The complexity of while & if
 
@@ -115,7 +198,7 @@ Space analysis => space:
 | O(2<sup>n</sup>) | exponential          |
 
 
-### 1.7 ßCompare classes of functions
+### 1.7 Compare classes of functions
 
 
 ### 1.8.1 Asymptotic Notations big Oh - Omega - Theta

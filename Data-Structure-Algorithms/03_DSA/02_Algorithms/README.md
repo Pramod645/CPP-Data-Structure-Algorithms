@@ -206,6 +206,7 @@ i= 2 the power k
 | 2                | 4                    |         16       | 16                   |
 | 3                | 8                    |         64       | 256                  |
 
+![FuntionsClasses](https://github.com/user-attachments/assets/8228eb10-46c8-4d74-954f-9615abac8937)
 
 Image x and y plot for above functions
 

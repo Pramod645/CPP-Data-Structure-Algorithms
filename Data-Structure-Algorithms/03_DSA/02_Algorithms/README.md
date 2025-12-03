@@ -234,3 +234,21 @@ Image x and y plot for above functions
 ### 1.12 Disjoint Set Data Structure - Weighted Union and collapsing find
 
 
+## 2 Sorting and Order Statics 
+
+## 3 Data Structures 
+
+
+## 4 Advanced Design and Analysis Techniques 
+
+
+## 5 Advanced Data structure 
+
+
+## 6 Graph Algorithms 
+
+## 7 Optimized Yechniques
+
+## 8 Mathmetics 
+
+

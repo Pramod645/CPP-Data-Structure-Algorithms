@@ -223,8 +223,10 @@ Image x and y plot for above functions
 ![comp](https://github.com/user-attachments/assets/099fa844-4979-4c49-b0b9-ff72f0c9b429)
 
 
+![fn1](https://github.com/user-attachments/assets/429a83ee-d310-4a24-b64b-f5af4e816e91)
 ### 1.10.2 funtions
-
+![fn1](https://github.com/user-attachments/assets/f4e915a7-27fb-455e-912f-07faad17fc02)
+![fn2](https://github.com/user-attachments/assets/fc04b7b2-b928-4074-843c-0b07e44d9a37)
 
 ### 1. 11 Best worst & Average Case Analysis
 

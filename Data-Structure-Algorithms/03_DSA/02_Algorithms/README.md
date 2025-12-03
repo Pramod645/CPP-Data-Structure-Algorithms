@@ -212,6 +212,7 @@ Image x and y plot for above functions
 ### 1.8.1 Asymptotic Notations big Oh - Omega - Theta
 ![aymptoticNotation1](https://github.com/user-attachments/assets/3c1886cd-2595-426a-a80c-6583a521af39)
 ![AymptoticNOtations2](https://github.com/user-attachments/assets/6e0bc72e-4a6b-4d6e-bf32-c553f7c7049a)
+![asymptoticNotations3](https://github.com/user-attachments/assets/f81063c2-27b6-4583-a13c-ed9c01293dac)
 
 
 ### 1.9 Properties of Aysmptetics notations

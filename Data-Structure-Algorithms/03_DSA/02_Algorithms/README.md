@@ -216,11 +216,11 @@ Image x and y plot for above functions
 
 
 ### 1.9 Properties of Aysmptetics notations
-
-
+![PrppertiesOfAymptoticNotations](https://github.com/user-attachments/assets/d29cd7aa-f9f0-4d35-a6e3-9f024e4b5c0e)
 
 
 ### 1.10.1 Comparision of Funtion
+![comp](https://github.com/user-attachments/assets/099fa844-4979-4c49-b0b9-ff72f0c9b429)
 
 
 ### 1.10.2 funtions

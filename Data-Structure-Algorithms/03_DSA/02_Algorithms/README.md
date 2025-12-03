@@ -236,6 +236,10 @@ Image x and y plot for above functions
 
 ## 1b Physical Data Structure
 
+## 1c Recursion
+
+## 1d Algo Run Time Analysis
+
 
 ## 2 Sorting and Order Statics 
 

@@ -1,4 +1,5 @@
 # Data-Structure-Algorithms
+## 1a Foundations
 ### 1. An algorithm is any well defined computational procedure that takes some set of input values and produce some deterministics set of output values.
 
 ### 1.1 What is the difference between Algorithm and Program?
@@ -232,6 +233,8 @@ Image x and y plot for above functions
 ![BestWorstAverage](https://github.com/user-attachments/assets/4d6b5217-02a4-4059-93c4-f0705f45e3c0)
 
 ### 1.12 Disjoint Set Data Structure - Weighted Union and collapsing find
+
+## 1b Physical Data Structure
 
 
 ## 2 Sorting and Order Statics 

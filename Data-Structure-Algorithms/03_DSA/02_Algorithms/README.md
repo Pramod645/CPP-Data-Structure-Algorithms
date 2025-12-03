@@ -254,7 +254,7 @@ Image x and y plot for above functions
 
 ## 6 Graph Algorithms 
 
-## 7 Optimized Yechniques
+## 7 Optimized Techniques
 
 ## 8 Mathmetics 
 

@@ -231,6 +231,6 @@ Image x and y plot for above functions
 ### 1. 11 Best worst & Average Case Analysis
 ![BestWorstAverage](https://github.com/user-attachments/assets/4d6b5217-02a4-4059-93c4-f0705f45e3c0)
 
-### Disjoint Set Data Structure - Weighted Union and collapsing find
+### 1.12 Disjoint Set Data Structure - Weighted Union and collapsing find
 
 

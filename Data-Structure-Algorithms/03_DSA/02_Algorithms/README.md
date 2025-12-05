@@ -245,33 +245,35 @@ Divide a large problem in to small problems so that it can have small soution an
 Its a recursive problem solver.
 DAC(P)
 {
-if(small(p))
-{
-S(P)
-{
-divide P into P1,P2, P3, --- Pk
-apply DAC(P1),DAC(P2)---
-combine(DAC(P1))DAC(P2) ----
-}
-}
+    if(small(P)
+    {
+        S(P)
+    }
+    else
+    {
+        divide P into P1,P2, P3, --- Pk
+        apply DAC(P1),DAC(P2)---
+        combine(DAC(P1))DAC(P2) ----
+    }
 }
 
 ### Devide and Conquer have below approach to solve problem
-#### a. Binary Search
-#### b. Finding maximum and minimum
-#### c. Merge Sort
-#### d. Quick sort
-#### e. Stressess matrix multiplication
+a. Binary Search
+b. Finding maximum and minimum
+c. Merge Sort
+d. Quick sort
+e. Stressess matrix multiplication
 
 #### We should know also when solving the problem using devide and conquer
-#### 1. How to write Recursive algorithms?
-#### 2. How to write recursive funtions?
-#### 3. How to Analysis it?
+1. How to write Recursive algorithms?
+2. How to write recursive funtions?
+3. How to Analysis it?
+4. How to find time complexity for it?
 
 Path for Recursive more allgorithms
 /. Recursive
 
-#### 4. How to find time complexity for it?
+
     
 ## 1b Physical Data Structure
 

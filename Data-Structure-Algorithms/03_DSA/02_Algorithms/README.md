@@ -233,6 +233,8 @@ Image x and y plot for above functions
 ![BestWorstAverage](https://github.com/user-attachments/assets/4d6b5217-02a4-4059-93c4-f0705f45e3c0)
 
 ### 1.12 Disjoint Set Data Structure - Weighted Union and collapsing find
+![disjoint1](https://github.com/user-attachments/assets/89b09cc7-debd-4eb8-9d15-862c1ace5450)
+![disjoint2](https://github.com/user-attachments/assets/df1a9a8a-aef4-4b64-9a20-75a7b15344d3)
 
 ## 1b Physical Data Structure
 

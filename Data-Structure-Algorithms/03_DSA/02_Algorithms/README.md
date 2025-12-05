@@ -257,7 +257,7 @@ DAC(P)
     }
 }
 
-### Devide and Conquer have below approach to solve problem
+#### Devide and Conquer have below approach to solve problem
 a. Binary Search
 b. Finding maximum and minimum
 c. Merge Sort

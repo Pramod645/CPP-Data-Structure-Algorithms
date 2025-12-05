@@ -272,12 +272,13 @@ e. Stressess matrix multiplication
 
 Path for Recursive more allgorithms
 /. Recursive
+###  Recursion
 
-
+### Sorting in chapter 2 
     
-## 1b Physical Data Structure
+## 1c Physical Data Structure
 
-## 1c Recursion
+
 
 ## 1d Algo Run Time Analysis
 

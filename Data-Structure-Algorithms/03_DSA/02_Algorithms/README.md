@@ -236,6 +236,43 @@ Image x and y plot for above functions
 ![disjoint1](https://github.com/user-attachments/assets/89b09cc7-debd-4eb8-9d15-862c1ace5450)
 ![disjoint2](https://github.com/user-attachments/assets/df1a9a8a-aef4-4b64-9a20-75a7b15344d3)
 
+## 1.13 Devide and Conquuer
+Stretegy is a approach or design to solve a problem. Therefore solving a computation problem apply or use this devide and conquer stretegy to solving a problem.
+THere is no hard and fast formula only a guideline for solving a problem. and guideline can be use to solve a problem to stretize.
+![devideconquer](https://github.com/user-attachments/assets/438b2b55-03b4-45b5-b196-0af38678d4c9)
+Divide a large problem in to small problems so that it can have small soution and then combine small solution to large problem.
+
+Its a recursive problem solver.
+DAC(P)
+{
+if(small(p))
+{
+S(P)
+{
+divide P into P1,P2, P3, --- Pk
+apply DAC(P1),DAC(P2)---
+combine(DAC(P1))DAC(P2) ----
+}
+}
+}
+
+### Devide and Conquer have below approach to solve problem
+#### a. Binary Search
+#### b. Finding maximum and minimum
+#### c. Merge Sort
+#### d. Quick sort
+#### e. Stressess matrix multiplication
+
+#### We should know also when solving the problem using devide and conquer
+#### 1. How to write Recursive algorithms?
+#### 2. How to write recursive funtions?
+#### 3. How to Analysis it?
+
+Path for Recursive more allgorithms
+/. Recursive
+
+#### 4. How to find time complexity for it?
+    
 ## 1b Physical Data Structure
 
 ## 1c Recursion

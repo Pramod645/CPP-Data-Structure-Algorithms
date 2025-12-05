@@ -270,9 +270,11 @@ e. Stressess matrix multiplication
 3. How to Analysis it?
 4. How to find time complexity for it?
 
-Path for Recursive more allgorithms
-/. Recursive
 ###  Recursion
+Path for Recursive more allgorithms
+https://github.com/Pramod645/CPP-Data-Structure-Algorithms/tree/main/Data-Structure-Algorithms/03_DSA/02_Algorithms/01_foundations/Recursion
+
+###Algos
 
 ### Sorting in chapter 2 
     

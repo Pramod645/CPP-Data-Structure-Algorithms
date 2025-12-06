@@ -236,7 +236,7 @@ Image x and y plot for above functions
 ![disjoint1](https://github.com/user-attachments/assets/89b09cc7-debd-4eb8-9d15-862c1ace5450)
 ![disjoint2](https://github.com/user-attachments/assets/df1a9a8a-aef4-4b64-9a20-75a7b15344d3)
 
-## 1.13 Devide and Conquuer
+## 1d Devide and Conquuer
 Stretegy is a approach or design to solve a problem. Therefore solving a computation problem apply or use this devide and conquer stretegy to solving a problem.
 THere is no hard and fast formula only a guideline for solving a problem. and guideline can be use to solve a problem to stretize.
 ![devideconquer](https://github.com/user-attachments/assets/438b2b55-03b4-45b5-b196-0af38678d4c9)
@@ -281,7 +281,10 @@ https://github.com/Pramod645/CPP-Data-Structure-Algorithms/tree/main/Data-Struct
 
 
     
-## 1d Algo Run Time Analysis
+### Algo Run Time Analysis
+
+## 1e Probabilistic analysis and randomized Algorithms 
+
 
 
 ## 2 Sorting and Order Statics 

@@ -281,10 +281,6 @@ https://github.com/Pramod645/CPP-Data-Structure-Algorithms/tree/main/Data-Struct
 
 
     
-## 1c Physical Data Structure
-
-
-
 ## 1d Algo Run Time Analysis
 
 

@@ -288,6 +288,7 @@ https://github.com/Pramod645/CPP-Data-Structure-Algorithms/tree/main/Data-Struct
 
 
 ## 2 Sorting and Order Statics 
+https://github.com/Pramod645/CPP-Data-Structure-Algorithms/tree/main/Data-Structure-Algorithms/03_DSA/02_Algorithms/02_sortingAndOrderStatics
 
 ## 3 Data Structures 
 
@@ -303,5 +304,4 @@ https://github.com/Pramod645/CPP-Data-Structure-Algorithms/tree/main/Data-Struct
 ## 7 Optimized Techniques
 
 ## 8 Mathmetics 
-
 

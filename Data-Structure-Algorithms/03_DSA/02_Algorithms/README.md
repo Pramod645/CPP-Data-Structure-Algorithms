@@ -288,7 +288,11 @@ https://github.com/Pramod645/CPP-Data-Structure-Algorithms/tree/main/Data-Struct
 
 
 ## 2 Sorting and Order Statics 
-https://github.com/Pramod645/CPP-Data-Structure-Algorithms/tree/main/Data-Structure-Algorithms/03_DSA/02_Algorithms/02_sortingAndOrderStatics
+### 1 Heap Sort
+### 2 Quick Sort
+### 3 Sorting in Linear
+### 4 Median & Order Statics
+Path: https://github.com/Pramod645/CPP-Data-Structure-Algorithms/tree/main/Data-Structure-Algorithms/03_DSA/02_Algorithms/02_sortingAndOrderStatics
 
 ## 3 Data Structures 
 

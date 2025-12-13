@@ -50,6 +50,7 @@ descending the tree.
 #### 8.Forest: Forest is a set of several trees that are not linked to each other in any way. Forest can be represnted as a binary tree.
 
 #### 9.AVL Trees or Balanced Trees: Searching in a binary tree is efficient if the height of both left and right sub-tree of any node are equal.however, frequent insertions and deletion in a BST is likely to make it unbalanced.the efficiency of searching is ideal if the diffirence between the heights of left and right sub-trees of all the nodes in a binary search tree is at the most one.Such a binary search tree is called the Ballanced Binary Tree.
+<img width="681" height="846" alt="AVL" src="https://github.com/user-attachments/assets/9253b8ce-4bcb-4e3a-8287-ca252967aa47" />
 
 #### 10.2-3 Trees
 

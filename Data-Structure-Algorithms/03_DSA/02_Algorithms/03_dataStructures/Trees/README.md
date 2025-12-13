@@ -25,3 +25,18 @@ descending the tree.
 #### 1.Pre0Order: 1. Visit the root. 2.Traversal the left subtree in pre-order. 3.Traverse the right sub-tree in pre-order.
 #### 2.In-Order: 1. Traverse the left sub-tree in in-order. 2.visit the root. 3.Traverse the right sub-tree in in-order.
 #### 3.Post-order: 1.Traverse the left sub-tree in post-order. 2.Traverse the right sub tree in post-order. 3.visit the root.
+
+
+#### Many algorithm that use binary trees processed in two phases. 1. build the binary tree and then second trversal the tree.
+### BST has property that all the elements in the left sub-tree of a node n are less then the contents of n. and all the elements in the right  sub-tree of n are greather than or equal to the contents of n.
+
+
+### Searchin, insertion and deletion are basic operation that are required to maintain tree.
+#### 1.Search. based on equal, less than and greather than
+#### 2.Insertion.
+#### 3.deletion. four possible way
+###### a.No node in the tree containing the specific data.
+###### b.The node3 containing the data has no children
+###### c.The node containing the data has exactly one child
+###### d.The node containing the data has two children
+

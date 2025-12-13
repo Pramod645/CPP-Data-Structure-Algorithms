@@ -5,7 +5,7 @@ Node
 Branches 
 Leaf 
 climbling the tree 
-descending the tree 
+descending the tree. 
 ##### No. of node conncted to a perticular node is called the degree of a node. the degree of a leaf always 1.
  
 #### 1.Bimnary Trees: A binary tree is a finite set of elements that is either empty or is partitioned into three disjointe sub-sets. The first sub-set contains a single element called root of the tree. the other two sub-sets are themselves binary trees called the left and right sub-trees of the original tree. each element of binary tree called a node of the tree.

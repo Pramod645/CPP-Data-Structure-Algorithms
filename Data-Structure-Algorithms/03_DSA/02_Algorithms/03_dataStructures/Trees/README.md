@@ -40,3 +40,19 @@ descending the tree.
 ###### c.The node containing the data has exactly one child
 ###### d.The node containing the data has two children
 
+
+#### 5.Ecxtended Binary Tree
+
+#### 6.THreaded Binary Tree
+
+#### 7.General Trees
+
+#### 8.Forest
+
+#### 9.AVL Trees or Balanced Trees
+
+#### 10.2-3 Trees
+
+#### 11.Priority Queue
+
+#### 12.Heap

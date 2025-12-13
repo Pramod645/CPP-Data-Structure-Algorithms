@@ -41,15 +41,15 @@ descending the tree.
 ###### d.The node containing the data has two children
 
 
-#### 5.Ecxtended Binary Tree
+#### 5.Extended Binary Tree: An binary can be conberted to extended binary tree b y adding new nodes to its leaf nodes and to the nodes that have only one child.These new nodes are added in such a way that all the nodes in the resultant tree have either zero or two children. The extended tree also called a 2-tree. //for a binary tree of height h the maximum number of nodes can be 2(the power h+1) -1. Any binary tree with n internal node has (n+1) extended nodes.
 
-#### 6.THreaded Binary Tree
+#### 6.Threaded Binary Tree: Both the recursive  and non-recursive procedures for binary tree traversal require that pointers to all of the free nodes be kept temporarily on stack. it is possible to write binary tree traversal procedure that does not require any pointer to the nodes be put on the stack.such procedure eliminate the overhead (time, memory) involved in initializing, pushing and popping the stack.
 
-#### 7.General Trees
+#### 7.General Trees:A genral tree can have any number of nodes.The children of a node are called as sibling of each other. in other word, if a particular node has four children, then the second, third and fourth child of that node are the siblilings of the first child.
 
-#### 8.Forest
+#### 8.Forest: Forest is a set of several trees that are not linked to each other in any way. Forest can be represnted as a binary tree.
 
-#### 9.AVL Trees or Balanced Trees
+#### 9.AVL Trees or Balanced Trees: Searching in a binary tree is efficient if the height of both left and right sub-tree of any node are equal.however, frequent insertions and deletion in a BST is likely to make it unbalanced.the efficiency of searching is ideal if the diffirence between the heights of left and right sub-trees of all the nodes in a binary search tree is at the most one.Such a binary search tree is called the Ballanced Binary Tree.
 
 #### 10.2-3 Trees
 

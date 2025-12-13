@@ -19,3 +19,9 @@ descending the tree.
 
 #### 4.Complete binary tree: A complete tree have same depth of the leaf or all leave have to be same level
 <img width="350" height="179" alt="CompleteBinaryTree" src="https://github.com/user-attachments/assets/c1e24b3b-ed8b-4a88-acd7-bde29fa282f1" />
+
+
+### Binary tree trasveral: 1. In-Order traversal, 2.Pre-Order traversal and the 3.Post-Order traversal. Traversal a tree using these method can be kept quite short if we understant the recursive nature of binary tree.
+#### 1.Pre0Order: 1. Visit the root. 2.Traversal the left subtree in pre-order. 3.Traverse the right sub-tree in pre-order.
+#### 2.In-Order: 1. Traverse the left sub-tree in in-order. 2.visit the root. 3.Traverse the right sub-tree in in-order.
+#### 3.Post-order: 1.Traverse the left sub-tree in post-order. 2.Traverse the right sub tree in post-order. 3.visit the root.

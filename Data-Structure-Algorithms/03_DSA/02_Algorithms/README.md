@@ -298,6 +298,7 @@ Path: https://github.com/Pramod645/CPP-Data-Structure-Algorithms/tree/main/Data-
 #### 1.Elementry DS(Physical DS)
 https://github.com/Pramod645/CPP-Data-Structure-Algorithms/tree/main/Data-Structure-Algorithms/03_DSA/02_Algorithms/03_dataStructures/ElementryOrPhysicalDS
 #### 2.Hash
+https://github.com/Pramod645/CPP-Data-Structure-Algorithms/tree/main/Data-Structure-Algorithms/03_DSA/02_Algorithms/03_dataStructures/Hash
 #### 3.BST
 https://github.com/Pramod645/CPP-Data-Structure-Algorithms/tree/main/Data-Structure-Algorithms/03_DSA/02_Algorithms/03_dataStructures/Trees
 #### 4.Red-Black-Trees

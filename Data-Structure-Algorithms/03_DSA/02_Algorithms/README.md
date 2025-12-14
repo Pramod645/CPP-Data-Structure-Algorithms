@@ -301,7 +301,9 @@ https://github.com/Pramod645/CPP-Data-Structure-Algorithms/tree/main/Data-Struct
 #### 3.BST
 https://github.com/Pramod645/CPP-Data-Structure-Algorithms/tree/main/Data-Structure-Algorithms/03_DSA/02_Algorithms/03_dataStructures/Trees
 #### 4.Red-Black-Trees
+
 #### 5.Augmenting DS
+An augmented data structure is a standard data structure (like a tree or hash map) enhanced with extra information, often stored within its nodes, to enable faster or new types of queries that the original structure couldn't handle efficiently, such as finding the median element or the size of a subtree, by keeping track of statistics alongside the core data. 
 
 ## 4 Advanced Design and Analysis Techniques 
 

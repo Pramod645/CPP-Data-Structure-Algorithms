@@ -1,4 +1,6 @@
 # Hash
+### Hashing techniue is useful for searching as other searching technique time complexity is higher for exapmple 1.linear search time complexity is O(n)  and 2. binary search time complexity is O(lofn). so if we need the searching time complexity O(1) or near to O(1) then we use the hashing technique.
+Hasing store key and data
 ### 1.Direct-address tables: Direct addressing is simple technique that works better when keys are resionabily small.
 <img width="369" height="179" alt="DirectHashtable" src="https://github.com/user-attachments/assets/d03392d9-f4f0-4f39-9658-01a651969704" />
 

@@ -1,6 +1,5 @@
 # Hash
 ### Hashing techniue is useful for searching as other searching technique time complexity is higher for exapmple 1.linear search time complexity is O(n)  and 2. binary search time complexity is O(lofn). so if we need the searching time complexity O(1) or near to O(1) then we use the hashing technique.
-Hasing store key and data
 <img width="531" height="619" alt="hashing1" src="https://github.com/user-attachments/assets/e5c100d9-a4d1-43be-a64f-75df4f2dc9c9" />
 <img width="477" height="615" alt="hashing2" src="https://github.com/user-attachments/assets/0f62f4b9-7542-4d45-b42c-41604515f2a1" />
 <img width="520" height="751" alt="hashing3" src="https://github.com/user-attachments/assets/7619b69f-96f8-47f5-b071-589a6323e898" />

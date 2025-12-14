@@ -58,6 +58,7 @@ descending the tree.
     c.one signle node can contain either one or two values.
     d.if any node has two childeren then that node caintains single data. the data occuring on left sub tree of that node is less than the data of the node and the data occuring on right sub tree of that node is greather than the data on the node.
     e.if any node has three childern (left, middle, and right), then that node contains two data values.left lesser than middle and right is greather than midlle.
+<img width="422" height="238" alt="2-3tree" src="https://github.com/user-attachments/assets/c35a68e8-a9d7-455d-bdd9-e4d4a6b6608d" />
 
 #### 11.B-Trees:The number of values that a perticular node of binary search tree or an AVL tree can hold is only one. On other hand a 2-3 tree can conatin at the most two values per node. To improve the efficiency of operation performed on tree we need to reduce the height of the tree. Another problem arise when the data is stored in secondrey storage medium.Th etime require to access the data from secondry medium is very hight. To improve the eficient of secondry medium data can be used Multi-Way Search Trees. A multi-way tree of order n is a tree in which any node may conyain maximum n-1 values and can have maximum of n children. Order of a tree as have seen earlier, is the maximum number of child nodes that a perticular node haas. in a multi way tree of order 4 or 4 way tree, any node can contain maximum three values and four children.B-Tree should satisfy below conditions.
     a. All the non-leaf nodes have at least n/2 children and at the most n children.
@@ -67,7 +68,9 @@ descending the tree.
     e.all the value that appear ion the left most child of a node are smaller than the first of that value of that node.All values that appear on the right most child of a node are greather than the last value of that node.
     f.if x and y are two ith and (i+1)th values of a node , where x<z , then all the values appearing on the (i+1)th sub-tree of that node are greather than x and less then y.
     g.all the leaf nodes should appear on the same level.
+<img width="340" height="188" alt="btree" src="https://github.com/user-attachments/assets/f27f5e85-ab4b-4fda-88fa-cd565265c876" />
 
 #### 12.Priority Queue: In a prioty queue all the element are assigned some priority.The order in which the elements could be deleted or processed from the priority queue depends upon this priority. OS use priority queue for scheduling jobs.Priority also used in time-sharing system. A priority queue can be implmeneted using a heap.
 
 #### 13.Heap:Heap is complete binary tree. there are two types of heaps. if we value present at any node greather than all its children then such a tree is called as  the max-heap or descending heap. in-case of a min-heap or assending heap the valuen present in any node is smaller than all its children.
+<img width="305" height="165" alt="heap" src="https://github.com/user-attachments/assets/8d2165e0-a755-44f6-822d-50643c85feed" />

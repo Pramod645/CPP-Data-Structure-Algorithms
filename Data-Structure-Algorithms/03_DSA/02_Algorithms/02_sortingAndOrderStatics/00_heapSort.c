@@ -3,57 +3,68 @@
 #include <curses.h>
 #include <string.h>
 
-void heapify(int heap[], int n){
-    int i, j, c, root, temp;
-    for (j = n - 1; j >= 0; j--) {
-       temp = heap[0];
-       heap[0] = heap[j]; // swap max element with rightmost leaf element
-       heap[j] = temp;
-       root = 0;
-       do {
-          c = 2 * root + 1; // left node of root element
-          if ((heap[c] < heap[c + 1]) && c < j-1)
-             c++;
-          if (heap[root]<heap[c] && c<j) { // again rearrange to max heap array
-             temp = heap[root];
-             heap[root] = heap[c];
-             heap[c] = temp;
-          }
-          root = c;
-       } while (c < j);
-    }
-    printf("The sorted array:\n ");
-    
-    for (i = 0; i < n; i++)
-       printf("%d ", heap[i]);
- }
+void heapSort(int x[],int n){
+    int i,s,f,ivalue;
+    for(i=n-1;i>0;i--){
+        ivalue=x[i];
+        x[i]=x[0];
+        f=0;
 
-void maxHeap(int heap[], int n){
-   int i, j, c, r, t;
-   for (i = 1; i < n; i++) {
-      c = i;
-      do {
-         r = (c - 1) / 2;
-         if (heap[r] < heap[c]) { // create the heap
-            heap[r] = heap[c];
-            heap[c] = t;
-         }
-         c = r;
-      } while (c != 0);
-   }
-   printf("Heap Array: \n");
-   for (i = 0; i < n; i++)
-      printf("%d ", heap[i]);
-   printf("\n");  
-   heapify(heap, n);
+        if(i==1)
+            s=-1;
+        else
+            s=1;
+
+        if(i>2 && x[2]>x[1])
+            s=2;
+        
+        while(s>=0 && ivalue <x[s]){
+            x[f]=x[s];
+            f=s;
+            s=2*f+1;
+
+            if(s+1<i-1 && x[s]<x[s+1])
+                s++;
+            if(s>i-1)
+                s=-1;
+        }
+        x[f]=ivalue;
+    }
+}
+
+void makeHeap(int x[],int n){
+    int i,val,s,f;
+    for(i=1;i<n;i++){
+        val=x[i];
+        s=i;
+        f=(s-1)/2;
+        while(s>0&&x[f]<val){
+            x[s]=x[f];
+            s=f;
+            f=(s-1)/2;
+        }
+        x[s]=val;
+    }
+
 }
 
 int main(){
 
+    int arr[10]={11,2,9,13,57,25,17,1,90,3};
+    int a;
+    printf("Heap Sort:\n");
+    makeHeap(arr,10);
+    printf("Heap Sort:\n");
+    for(a=0;a<10;a++){
+        printf("%d\t",arr[a]);
+    }
 
-   int heap[10] = {16, 14, 10, 8, 7,9,3,2,4,1}; 
+    heapSort(arr, 10);
+    printf("\n");
+    printf("After Sort:\n");
+    for(a=0;a<10;a++){
+        printf("%d\t",arr[a]);
+    }
 
-   maxHeap(heap, 10);
-
-   return 0;
+    return 0;
 }

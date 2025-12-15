@@ -6,7 +6,7 @@
 a.Construct a heap by adjusting the array elelemtns. 
 b.Repeateadly eliminating the root element of the heap by shifting it to the end of array and then restore the heap structure with remaining elements.
 <img width="480" height="532" alt="2HeapSs2hort" src="https://github.com/user-attachments/assets/e10eae87-d417-4af9-ba5d-fc79195095e6" />
-
+https://github.com/Pramod645/CPP-Data-Structure-Algorithms/blob/main/Data-Structure-Algorithms/03_DSA/02_Algorithms/02_sortingAndOrderStatics/00_heapSort.c
 #### 2.Quick Sort
 #### 3.Sorting in Linear
   ##### a.Counting Sort
@@ -18,5 +18,6 @@ b.Repeateadly eliminating the root element of the heap by shifting it to the end
 
 #### 5.Insertion Sort
 #### 6.Bubble Sort
+
 
 

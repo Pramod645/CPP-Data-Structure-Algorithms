@@ -12,7 +12,7 @@ creating heap from array of elements. zeroth element will be the root and left a
 #### 2.Quick Sort: Qucik sort can sort a list of data elements significantly faster than any of the common sorting algorithms. The basic strategy of qucik sort is to divide and conquer. it also known as partition exchange short. time complexity is O(n2) in worst case and O(log2n) in average and best case.
 The element that indicate by '*' is the pivot element and the elelement that is indicated by '__' is the element whose position is finlized.
 <img width="496" height="550" alt="quickSort" src="https://github.com/user-attachments/assets/a4207494-c96f-48d3-945d-b18af2d8c9b7" />
-
+https://github.com/Pramod645/CPP-Data-Structure-Algorithms/blob/main/Data-Structure-Algorithms/03_DSA/02_Algorithms/02_sortingAndOrderStatics/01_QuickSort.c
 #### 3.Sorting in Linear
   ##### a.Counting Sort
   ##### b. Radix Sort
@@ -23,6 +23,7 @@ The element that indicate by '*' is the pivot element and the elelement that is 
 
 #### 5.Insertion Sort
 #### 6.Bubble Sort
+
 
 
 

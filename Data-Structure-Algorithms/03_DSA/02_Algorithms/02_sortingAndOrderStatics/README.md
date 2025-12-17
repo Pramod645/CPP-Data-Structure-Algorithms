@@ -28,14 +28,6 @@ https://github.com/Pramod645/CPP-Data-Structure-Algorithms/blob/main/Data-Struct
 
 #### 7.Insertion Sort
 
-#### 8.Binary Tree Sort
+#### 8.Binary Tree Sort: BInary tree sort uses a binary search tree(BST). Each elelemnt scanned from the input list and placed in its proper position in binary tree. To place an element in its proper position, the element is compared with the node element. if this element is less than the element in the node, then it is placed in the left branch. if the element is greater than or equal to the node then it is placed in the right branch. now if get element according to in-order traversal then get elements in ascending ordr.
 
-#### 9.Merge Sort
-
-
-
-
-
-
-
-
+#### 9.Merge Sort : Merging means combining two sorted lists into one sorted list. For this the elements from both the sorted lists are compared. THe smaller of both elements is then sorted in the thort array. The sorting is complete when all the elements from both the lists are placed in the third list. The time complexity is O(n log n) for all the cases.

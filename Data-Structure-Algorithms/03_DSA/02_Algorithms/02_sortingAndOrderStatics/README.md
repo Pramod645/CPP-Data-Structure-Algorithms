@@ -21,8 +21,18 @@ https://github.com/Pramod645/CPP-Data-Structure-Algorithms/blob/main/Data-Struct
   ##### a.Minimum & Maximum
   ##### b.Randomized
 
-#### 5.Insertion Sort
-#### 6.Bubble Sort
+
+#### 5.Bubble Sort
+
+#### 6.Selection Sort
+
+#### 7.Insertion Sort
+
+#### 8.Binary Tree Sort
+
+#### 9.Merge Sort
+
+
 
 
 

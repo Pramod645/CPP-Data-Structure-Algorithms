@@ -14,7 +14,7 @@ The element that indicate by '*' is the pivot element and the elelement that is 
 <img width="496" height="550" alt="quickSort" src="https://github.com/user-attachments/assets/a4207494-c96f-48d3-945d-b18af2d8c9b7" /> 
 https://github.com/Pramod645/CPP-Data-Structure-Algorithms/blob/main/Data-Structure-Algorithms/03_DSA/02_Algorithms/02_sortingAndOrderStatics/01_QuickSort.c
 #### 3.Sorting in Linear
-  ##### a.Counting Sort
+  ##### a.Counting Sort: 
   ##### b. Radix Sort
   ##### c.Bucket Sort
 #### 4. Median & Order Statics
@@ -22,12 +22,12 @@ https://github.com/Pramod645/CPP-Data-Structure-Algorithms/blob/main/Data-Struct
   ##### b.Randomized
 
 
-#### 5.Bubble Sort
+#### 5.Bubble Sort: To make in ascending order, to start with 0th element is compared with the 1st element. if its found to be greather than 1st element then they are interchanged.then the 1st get compared with 2nd  so iterationo 0th to end , 1st to end and so on.time complexity in all cases is O(n2).
 
-#### 6.Selection Sort
+#### 6.Selection Sort: In this to assending order, 0th element is compared with all other elements. if the 0th elemen is found to be greather than the compared element then they are interchanged. so after the first iteration the smallest element is placed at the 0th position and this repease so on. the time complexity in all the case is O(n2).
 
-#### 7.Insertion Sort
+#### 7.Insertion Sort: INsertion sort is by inserting a perticular element at the appropriate position. IN this , first iteration strats with comparision os 1st element with the 0th element. in the second iteration, 2nd element is compared with the 0th and 1st element. so in general , in every iterartion an element is compared with all elements before it. during comparision if found the elementin question can be inserted at a suitable position then space is created for it by shifting the order element on position to the right and inserting the element at the suitable position.
 
-#### 8.Binary Tree Sort: BInary tree sort uses a binary search tree(BST). Each elelemnt scanned from the input list and placed in its proper position in binary tree. To place an element in its proper position, the element is compared with the node element. if this element is less than the element in the node, then it is placed in the left branch. if the element is greater than or equal to the node then it is placed in the right branch. now if get element according to in-order traversal then get elements in ascending ordr.
+#### 8.Binary Tree Sort: BInary tree sort uses a binary search tree(BST). Each elelemnt scanned from the input list and placed in its proper position in binary tree. To place an element in its proper position, the element is compared with the node element. if this element is less than the element in the node, then it is placed in the left branch. if the element is greater than or equal to the node then it is placed in the right branch. now if get element according to in-order traversal then get elements in ascending ordr. worst Time complexity is O(n2) and average and best case time complexity is O(n log n).
 
 #### 9.Merge Sort : Merging means combining two sorted lists into one sorted list. For this the elements from both the sorted lists are compared. THe smaller of both elements is then sorted in the thort array. The sorting is complete when all the elements from both the lists are placed in the third list. The time complexity is O(n log n) for all the cases.

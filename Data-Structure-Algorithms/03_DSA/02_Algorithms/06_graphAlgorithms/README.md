@@ -37,9 +37,11 @@ Given root node of a binary tree, one of the most common operation performed is 
 
 
 ### Depth First Search
-
-
+This start vertex v visitted and then next an unvisited vertex w adjacent to v is selected andf a depth seach from w is initiated.when a vertex u is replecaed such that all its adjacent verteces have been visited.then beck tup to last vetex visited while has an unvisited vertex w adjacent to it and initiated a depth first search from w. the search termonated when no unvisited vetex can be reached from any of the visited onces.
+visited :v1,v2,v4,b8,v5,v6,v3 and v7
 ### Breath First Search
+In breadth ffirst search, strarting at vertex v and making its as visited.differs from depth first search in that all unvisited vertces adjacent to v are visited next. then unvisited vertices adjacent to these vertices are visited and so on. A breadth first search begining at verticeswould first visit v1 and then v2 and v3. next vetices v4,v5,v6 and v7 will be visited and finally v8.
+visited:v1,v2,v3,v4,v5,v6,v7 and v8
 
 
 ### Spanning Tree

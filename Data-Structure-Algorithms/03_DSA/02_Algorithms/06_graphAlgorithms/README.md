@@ -1,5 +1,5 @@
-#Graph
-THis is non-linear data structure like the tree infact tree also is one kind of graph. 
+# Graph
+This is non-linear data structure like the tree infact tree also is one kind of graph. 
 A graph consisit of two sets one v finite and non-empty set of vertices and second e which is pairs of vertices this is called edges.
 There are two types of graph one is undirected and other one is directed grapph.
 In undirected graph the pairs of verices representing any edge ia unordered which means the pairs (v1,v2) and (v2,v1) are having same edge.

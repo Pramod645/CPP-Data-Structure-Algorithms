@@ -45,13 +45,24 @@ visited:v1,v2,v3,v4,v5,v6,v7 and v8
 
 
 ### Spanning Tree
-
+A spanning tree of a graph is an undirected tree cinsisting of only those edges that are necessary to connect all the vertices in the original grapgh. A spanning tree has a property that for any pair of vertices there exists only one path between themand insertion of any edge to a spanning tree from a unique cycle.
+THe pertucualr spanning tree for a graph depends on the criteria used for generating it.the spanning tree resulting from a call to depth first tree is know as depth first spanning tree. and in same way a spanning tree resulting from a call to breadth first is called breadth first spanning tree. .It usefull for shortest path problems solving.the cost of sum of spanning tree is the sum of costs of edges in the tree. thee is one mthod for minimum cost spanning tree is provided by Kruskal.
 
 ### Krushel's Algorithm
+IN this algotithm, a minimum cost spanning tree T is built edge by edge.Edges are considered for inclusion in T in increasing order of their costs.An edge is included in T if it does not form a cycle with edges already in T.
+!Image[Graph of costs of edges]
 
+E-Edge
+C-Cost
+A-Action
+T-Tree
+I-Inclusion
+R-Rejection
 
 ### Sortest Path Algorithm
+A minimum spaning tree dont give indication about shortest path betwen two nodes, Instead of that give overall cost is minimized. but in practice need shortest path between two cities or other examples. To find the shortest path Dijkstraprovied an algotihtm.
 
 #### 1.Dijkstra's Algorithm
-
+!Image[Digraph]
+!Image[MAtrix]
 

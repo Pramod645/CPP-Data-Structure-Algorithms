@@ -5,12 +5,13 @@ There are two types of graph one is undirected and other one is directed grapph.
 In undirected graph the pairs of verices representing any edge ia unordered which means the pairs (v1,v2) and (v2,v1) are having same edge.
 In directed graph each edge is represented by a directed pair<v1,v2>. v1 is the tail and v2 the head of the edge. so <v2,v1> and <v1,v2> are two diffirent edges. and this graph also call digraph.
 !Imasges[undirected]
+<img width="358" height="157" alt="undirectedGrapgh" src="https://github.com/user-attachments/assets/6011e388-dbd9-4c25-b550-4bfad6ed636c" />
 
 set of vertices = {1,2,3,4}
 set of edges = {(1,2),(1,3),(1,4),(2,3),(2,4),(2,4),(3,4)}
 
-
 !Images[directed]
+<img width="358" height="157" alt="directedGrapgh" src="https://github.com/user-attachments/assets/d7db11ce-ef8e-4d8b-9fba-de1dc9b97175" />
 
 set of vertees={1,2,3}
 set of edges = {<1,2>,<2,1>,<2,3>}
@@ -31,6 +32,8 @@ In this picture, the adjancenry matrix for an unidirected graph is symmetric. an
 #### Adjancencey Lists
 In this, n rows of the adjancency matrix are represented as n linked lists. there is one list for each vertex in the grapgh. the node in the list i represent the verteces that are adjacent from vertex i Each list has a head node and head nodes are sequential providing easy random access to the adjancency list for any particular vertex.
 !Image[Adjancency list]
+<img width="321" height="157" alt="AdjanacenyListForUndirectedGRapgh" src="https://github.com/user-attachments/assets/9e97dc5c-991a-4989-8b8d-7be27ca16286" />
+<img width="321" height="157" alt="AdjanacenyListForDirectedGRapgh" src="https://github.com/user-attachments/assets/25b1278e-8b36-4d10-b30f-fec548fd1097" />
 
 
 Given root node of a binary tree, one of the most common operation performed is visiting every node of the tree in some order. same way, given a vertex in directed or undirected graphneed to visit all the verteces in the graph that are reachable from this vertex. and this can be done by either Depth First Search or Breath First Seearch algorithms.
@@ -42,7 +45,7 @@ visited :v1,v2,v4,b8,v5,v6,v3 and v7
 ### Breath First Search
 In breadth ffirst search, strarting at vertex v and making its as visited.differs from depth first search in that all unvisited vertces adjacent to v are visited next. then unvisited vertices adjacent to these vertices are visited and so on. A breadth first search begining at verticeswould first visit v1 and then v2 and v3. next vetices v4,v5,v6 and v7 will be visited and finally v8.
 visited:v1,v2,v3,v4,v5,v6,v7 and v8
-
+<img width="396" height="468" alt="GraphAndListFor-DFS-BFS" src="https://github.com/user-attachments/assets/32f59a08-c396-462c-b631-86fba5b8d0b2" />
 
 ### Spanning Tree
 A spanning tree of a graph is an undirected tree cinsisting of only those edges that are necessary to connect all the vertices in the original grapgh. A spanning tree has a property that for any pair of vertices there exists only one path between themand insertion of any edge to a spanning tree from a unique cycle.
@@ -65,4 +68,5 @@ A minimum spaning tree dont give indication about shortest path betwen two nodes
 #### 1.Dijkstra's Algorithm
 !Image[Digraph]
 !Image[MAtrix]
+<img width="355" height="275" alt="DiagrapghForDijkstraAlgo" src="https://github.com/user-attachments/assets/81885835-513a-4421-959b-2b6597f712cb" />
 

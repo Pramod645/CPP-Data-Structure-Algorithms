@@ -4,7 +4,7 @@ A graph consisit of two sets one v finite and non-empty set of vertices and seco
 There are two types of graph one is undirected and other one is directed grapph.
 In undirected graph the pairs of verices representing any edge ia unordered which means the pairs (v1,v2) and (v2,v1) are having same edge.
 In directed graph each edge is represented by a directed pair<v1,v2>. v1 is the tail and v2 the head of the edge. so <v2,v1> and <v1,v2> are two diffirent edges. and this graph also call digraph.
-!Imasges[undirected]
+!Imasges[undirected] 
 <img width="358" height="157" alt="undirectedGrapgh" src="https://github.com/user-attachments/assets/6011e388-dbd9-4c25-b550-4bfad6ed636c" />
 
 set of vertices = {1,2,3,4}

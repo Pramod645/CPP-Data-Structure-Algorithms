@@ -1,6 +1,6 @@
 # ADVANCED Data Structure
 
-### 1.Aumentic Data Structure
+### 1.Augmentic Data Structure
 
 ### 2.B-Trees
 

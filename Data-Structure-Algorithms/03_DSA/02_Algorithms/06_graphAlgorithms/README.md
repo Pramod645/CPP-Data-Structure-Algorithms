@@ -1,4 +1,5 @@
 # Graph
+## 1.Elementy Grapgh
 This is non-linear data structure like the tree infact tree also is one kind of graph. 
 A graph consisit of two sets one v finite and non-empty set of vertices and second e which is pairs of vertices this is called edges.
 There are two types of graph one is undirected and other one is directed grapph.
@@ -46,7 +47,7 @@ visited :v1,v2,v4,b8,v5,v6,v3 and v7
 In breadth ffirst search, strarting at vertex v and making its as visited.differs from depth first search in that all unvisited vertces adjacent to v are visited next. then unvisited vertices adjacent to these vertices are visited and so on. A breadth first search begining at verticeswould first visit v1 and then v2 and v3. next vetices v4,v5,v6 and v7 will be visited and finally v8.
 visited:v1,v2,v3,v4,v5,v6,v7 and v8
 <img width="396" height="468" alt="GraphAndListFor-DFS-BFS" src="https://github.com/user-attachments/assets/32f59a08-c396-462c-b631-86fba5b8d0b2" />
-
+## 2.Minimum Spanning Tree
 ### Spanning Tree
 A spanning tree of a graph is an undirected tree cinsisting of only those edges that are necessary to connect all the vertices in the original grapgh. A spanning tree has a property that for any pair of vertices there exists only one path between themand insertion of any edge to a spanning tree from a unique cycle.
 THe pertucualr spanning tree for a graph depends on the criteria used for generating it.the spanning tree resulting from a call to depth first tree is know as depth first spanning tree. and in same way a spanning tree resulting from a call to breadth first is called breadth first spanning tree. .It usefull for shortest path problems solving.the cost of sum of spanning tree is the sum of costs of edges in the tree. thee is one mthod for minimum cost spanning tree is provided by Kruskal.
@@ -62,6 +63,8 @@ T-Tree
 I-Inclusion
 R-Rejection
 
+## 3.Single-Source Shortest Paths
+
 ### Sortest Path Algorithm
 A minimum spaning tree dont give indication about shortest path betwen two nodes, Instead of that give overall cost is minimized. but in practice need shortest path between two cities or other examples. To find the shortest path Dijkstraprovied an algotihtm.
 
@@ -70,3 +73,10 @@ A minimum spaning tree dont give indication about shortest path betwen two nodes
 !Image[MAtrix]
 <img width="355" height="275" alt="DiagrapghForDijkstraAlgo" src="https://github.com/user-attachments/assets/81885835-513a-4421-959b-2b6597f712cb" />
 
+#### Ballman-Ford Algorithms
+
+## 4.All-Pairs Shortest Paths
+
+## 5. MAximum Flow
+
+## 5.Matchings in Bipartite Grapgh

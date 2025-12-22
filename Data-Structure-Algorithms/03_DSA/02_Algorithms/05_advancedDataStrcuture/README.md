@@ -31,6 +31,7 @@ Widely used: Red-Black Trees are a popular choice for implementing various data 
 More complex than other balanced trees: Compared to simpler balanced trees like AVL trees, Red-Black Trees have more complex insertion and deletion rules.
 
 Constant overhead: Maintaining the Red-Black Tree properties adds a small overhead to every insertion and deletion operation.
+<img width="302" height="150" alt="RBT" src="https://github.com/user-attachments/assets/de6f2eca-15be-4ec6-ac66-9fd8727ddd24" />
 
 ### 2.B-Trees: The number of values that a perticular node of binary search tree or an AVL tree can hold is only one. On other hand a 2-3 tree can conatin at the most two values per node. To improve the efficiency of operation performed on tree we need to reduce the height of the tree. Another problem arise when the data is stored in secondrey storage medium.The time require to access the data from secondry medium is very hight. To improve the eficient of secondry medium data can be used Multi-Way Search Trees. A multi-way tree of order n is a tree in which any node may conyain maximum n-1 values and can have maximum of n children. Order of a tree as have seen earlier, is the maximum number of child nodes that a perticular node haas. in a multi way tree of order 4 or 4 way tree, any node can contain maximum three values and four children.B-Tree should satisfy below conditions.
     a. All the non-leaf nodes have at least n/2 children and at the most n children.

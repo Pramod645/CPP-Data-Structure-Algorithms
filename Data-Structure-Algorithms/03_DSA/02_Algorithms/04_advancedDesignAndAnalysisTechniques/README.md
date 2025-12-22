@@ -31,5 +31,22 @@ Different Types of Dynamic Programming Algorithms
 2. Floyd-Warshall Algorithm
 
 ### 2. Greedy Algorithms
+A greedy algorithm always makes the choice that looks best at the moment. That is, it makes a locally optimal choice in the hope that this choice leads to a globally optimal solution.
+Advantages of Greedy Approach:
+The algorithm is easier to describe.
+This algorithm can perform better than other algorithms (but, not in all cases).
+Drawback of Greedy Approach:
+As mentioned earlier, the greedy algorithm doesn't always produce the optimal solution. This is the major disadvantage of the algorithm. 
+Different Types of Greedy Algorithm:
+Selection Sort
+Knapsack Problem
+Minimum Spanning Tree
+Single-Source Shortest Path Problem
+Job Scheduling Problem
+Prim's Minimal Spanning Tree Algorithm
+Kruskal's Minimal Spanning Tree Algorithm
+Dijkstra's Minimal Spanning Tree Algorithm
+Huffman Coding
+Ford-Fulkerson Algorithm
 
 ### 3. Amortized Analysis

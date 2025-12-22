@@ -8,7 +8,7 @@ climbling the tree
 descending the tree. 
 ##### No. of node conncted to a perticular node is called the degree of a node. the degree of a leaf always 1.
  
-#### 1.Bimnary Trees: A binary tree is a finite set of elements that is either empty or is partitioned into three disjointe sub-sets. The first sub-set contains a single element called root of the tree. the other two sub-sets are themselves binary trees called the left and right sub-trees of the original tree. each element of binary tree called a node of the tree.
+#### 1.Binary Trees: A binary tree is a finite set of elements that is either empty or is partitioned into three disjointe sub-sets. The first sub-set contains a single element called root of the tree. the other two sub-sets are themselves binary trees called the left and right sub-trees of the original tree. each element of binary tree called a node of the tree.
 <img width="365" height="203" alt="BinaryTRee" src="https://github.com/user-attachments/assets/187f6002-cc14-42e3-9ff9-8916c9f682b3" />
 
 #### 2.Not binary trees
@@ -36,7 +36,7 @@ descending the tree.
 #### 2.Insertion.
 #### 3.deletion. four possible way
 ###### a.No node in the tree containing the specific data.
-###### b.The node3 containing the data has no children
+###### b.The node2 containing the data has no children
 ###### c.The node containing the data has exactly one child
 ###### d.The node containing the data has two children
 

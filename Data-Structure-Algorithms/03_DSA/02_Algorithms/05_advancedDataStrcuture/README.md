@@ -55,10 +55,10 @@ UNION(x,y) unites two disjoint, dynamic sets that contain x and y , say S x and 
 FIND-SET(x) returns a pointer to the representative of the unique set containing x. 
 
 Graph reprentation of Disjoint.
-
+<img width="544" height="178" alt="GraphDisjoint" src="https://github.com/user-attachments/assets/fca2c7fb-aae4-4c6b-b7d0-63a81f87c5ab" />
 
 Linked List of Disjoint.
-
+<img width="544" height="237" alt="LinkedListDisjoint" src="https://github.com/user-attachments/assets/52ae63e5-38a3-4f81-a9bb-552275e5ff2a" />
 
 Disjoint of Forest.
-
+<img width="512" height="267" alt="ForestDisjoint" src="https://github.com/user-attachments/assets/d4dbacb7-6ea0-4bb6-93aa-1fdce5b1d60a" />

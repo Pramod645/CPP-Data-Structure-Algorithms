@@ -32,6 +32,11 @@ Different Types of Dynamic Programming Algorithms
 
 ### 2. Greedy Algorithms
 A greedy algorithm always makes the choice that looks best at the moment. That is, it makes a locally optimal choice in the hope that this choice leads to a globally optimal solution.
+1. An activity-selection problem
+2. Elements of the greedy strategy
+3. Huffman codes
+4. Ofüine caching 
+
 Advantages of Greedy Approach:
 The algorithm is easier to describe.
 This algorithm can perform better than other algorithms (but, not in all cases).
@@ -50,3 +55,34 @@ Huffman Coding
 Ford-Fulkerson Algorithm
 
 ### 3. Amortized Analysis
+In an amortized
+analysis, you average the time required to perform a sequence of data-structure
+operations over all the operations performed. With amortized analysis, you show
+that if you average over a sequence of operations, then the average cost of an oper-
+ation is small, even though a single operation within the sequence might be expen-
+sive. Amortized analysis differs from average-case analysis in that probability is
+not involved. An amortized analysis guarantees the average performance of each
+operation in the worst case.
+THree method:
+1. aggregate analysis
+2. accounting method
+3. potential method
+
+Amortized Analysis is used for algorithms where an occasional operation is very slow, but most other operations are faster. In Amortized Analysis, we analyze a sequence of operations and guarantee a worst-case average time that is lower than the worst-case time of a particularly expensive operation.
+
+The data structures whose operations are analyzed using Amortized Analysis include:
+
+Hash Tables 
+Disjoint Sets 
+Splay Trees 
+
+Advantages of Amortized Analysis:
+More accurate predictions: Amortized analysis provides a more accurate prediction of the average-case complexity of an algorithm over a sequence of operations, rather than just the worst-case complexity of individual operations.
+Provides insight into algorithm behavior: By analyzing the amortized cost of an algorithm, we can gain insight into how it behaves over time and how it handles different types of inputs.
+Helps in algorithm design: Amortized analysis can be used as a tool for designing efficient algorithms that perform well over a sequence of operations.
+Useful in dynamic data structures: Amortized analysis is particularly useful in dynamic data structures like heaps, stacks, and queues, where the cost of an operation depends on the current state of the data structure.
+
+Disadvantages of Amortized Analysis:
+Complexity: Amortized analysis can be complex, especially when multiple operations are involved, making it difficult to implement and understand.
+Limited applicability: Amortized analysis may not be suitable for all types of algorithms, especially those with highly unpredictable behavior or those dependent on external factors like network latency or I/O operations.
+Lack of precision: Although amortized analysis provides a more accurate average-case complexity, it may not always give a precise estimate of actual performance, especially when there is high variance in the cost of operations.

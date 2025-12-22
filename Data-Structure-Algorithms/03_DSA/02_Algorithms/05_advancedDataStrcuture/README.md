@@ -47,3 +47,18 @@ B-trees are balanced search trees designed to work well on disk drives or other 
 B-trees differ from red-black trees in that B-tree nodes may have many children, from a few to thousands. That is, the branching factor of a B-tree can be quite large, although it usually depends on characteristics of the disk drive used. B-trees are similar to red-black trees in that every n-node B-tree has height O.lg n/, so that B-trees can implement many dynamic-set operations in O.lg n/ time. But a B-tree has a larger branching factor than a red-black tree, so the base of the logarithm that expresses its height is larger, and hence its height can be considerably lower. 
 
 ### 3.Data Structure for Disjoints
+Some applications involve grouping n distinct elements into a collection of disjoint sets4sets with no elements in common. These applications often need to perform two operations in particular: ûnding the unique set that contains a given element and uniting two sets.
+
+MAKE-SET (x), where x does not already belong to some other set, creates a new set whose only member (and thus representative) is x. 
+
+UNION(x,y) unites two disjoint, dynamic sets that contain x and y , say S x and S y , into a new set that is the union of these two sets. The representative of the resulting set is any member of S x U S y , although many implementations of UNION speciûcally choose the representative of either S x or S y as the new representative. Since the sets in the collection must at all times be disjoint, the UNION operation destroys sets S x and S y , removing them from the collection S . In practice, implementations often absorb the elements of one of the sets into the other set. 
+FIND-SET(x) returns a pointer to the representative of the unique set containing x. 
+
+Graph reprentation of Disjoint.
+
+
+Linked List of Disjoint.
+
+
+Disjoint of Forest.
+

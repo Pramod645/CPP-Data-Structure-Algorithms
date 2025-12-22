@@ -21,7 +21,7 @@ To develop a dynamic-programming algorithm, follow a sequence of four steps:
 2. Recursively deûne the value of an optimal solution.
 3. Compute the value of an optimal solution, typically in a bottom-up fashion.
 4. Construct an optimal solution from computed information.
-![alt text](image.png)
+<img width="561" height="192" alt="Dynamic" src="https://github.com/user-attachments/assets/cdec77f0-6939-4113-8ce5-74076bed3104" />
 
 However, greedy algorithms look for locally optimum solutions or in other words, a greedy choice, in the hopes of finding a global optimum. Hence greedy algorithms can make a guess that looks optimum at the time but becomes costly down the line and do not guarantee a globally optimum.
 
